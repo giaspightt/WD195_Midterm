@@ -1,0 +1,19 @@
+/* primary accent secondary */
+/* colors
+background: #FFB900; (Lyellow)
+background: #FE9A00; (yellow)
+background: #E17100; (orange)
+background: #FEE685; (LLyellow)
+background: #FFFBEB; (LLLLyellow)
+background: #0A0A0A; (black)
+background: #4A5565; (grey)
+
+background: #FEF3C6; border-top: 1px solid #FFD230; ((buton) LLLyellow) (same???)
+
+background: #FEF3C6; (text Lyellow)
+background: #FFD230; (text yellow)
+background: #7B3306; (text Dorange)
+
+background: linear-gradient(90deg, rgba(123, 51, 6, 0.9) 0%, rgba(151, 60, 0, 0.8) 100%); (Dorange l-grad)
+background: linear-gradient(90deg, #FE9A00 0%, #E17100 100%); (Lyellow l-grad)
+
