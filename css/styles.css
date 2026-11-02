@@ -6668,7 +6668,7 @@ as i cant use this (without more effort), ill just put it here. and then modify 
         --bs-badge-padding-y: .25em;
         --bs-badge-font-size: clamp(12px, .75em, .75em);
         --bs-badge-font-weight: var(--bs-font-weight-semibold);
-        --bs-badge-color: inherit;
+        --bs-badge-color: #7B3306;
         --bs-badge-bg: var(--bs-bg-2);
         --bs-badge-border-width: var(--bs-border-width);
         --bs-badge-border-color: transparent;
